@@ -1,0 +1,26 @@
+body {
+	background: #222;
+	padding-top: 50px;
+}
+
+.container {
+	max-width: 1000px;
+}
+
+
+.navbar {
+	background: #990000;
+}
+
+h1 {
+	color: #c5b358;
+	text-align: center;
+}
+
+h2 {
+	color: #d8d8d8;
+}
+
+h4 {
+	color: #808080;
+}

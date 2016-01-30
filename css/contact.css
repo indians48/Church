@@ -1,0 +1,27 @@
+.container h1 { 
+	color: #c5b358;
+}
+
+.container h3 {
+	color: #d8d8d8;
+	font-size: 30px;
+}
+
+.container li {
+	color: #d8d8d8;
+}
+
+.footer {
+	color: #c5b358;
+	text-align: center;
+	height: 90px;
+	background: #990000;
+}
+
+.wrap {
+	min-height: calc(100vh - 90px);
+}
+
+.iframe {
+	background-position: center;
+}
